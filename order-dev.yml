@@ -11,5 +11,5 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 custom:
   setting:
-    testname: 11111
-    testpass: 22222
+    testname: 33
+    testpass: 44444
